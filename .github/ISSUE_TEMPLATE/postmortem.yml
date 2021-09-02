@@ -1,11 +1,11 @@
-# Template from: Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy. [“Site Reliability Engineering.”](https://landing.google.com/sre/book/chapters/postmortem.html). 
-
 name: PostMortem
 description: Create a postmortem
 title: "PostMortem Title"
 labels: [kind/postmortem, needs/priority, needs/triage]
 assignees:
   - 
+
+# Template from: Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy. [“Site Reliability Engineering.”](https://landing.google.com/sre/book/chapters/postmortem.html). 
 
 body:
   - type: markdown
@@ -71,7 +71,7 @@ body:
     validations:
       required: true
 
-<!-- ### Impact
+### Impact
 
 ### Root Causes
 
